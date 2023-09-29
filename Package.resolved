@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "mainoffender",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mattmassicotte/MainOffender",
+      "state" : {
+        "revision" : "343cc3797618c29b48b037b4e2beea0664e75315",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "rearrange",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ChimeHQ/Rearrange",
+      "state" : {
+        "revision" : "0fb658e721c68495f6340c211cc6d4719e6b52d8",
+        "version" : "1.6.0"
+      }
+    },
+    {
+      "identity" : "sttextview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/STTextView.git",
+      "state" : {
+        "revision" : "1046965bd62dc05cf17beb4b4e901cdae851395e",
+        "version" : "0.8.7"
+      }
+    },
+    {
+      "identity" : "swiftlintplugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lukepistrol/SwiftLintPlugin",
+      "state" : {
+        "revision" : "ea918d6d5988407b24c2efad7722560752b1638a",
+        "version" : "0.53.0"
+      }
+    },
+    {
+      "identity" : "textformation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ChimeHQ/TextFormation",
+      "state" : {
+        "revision" : "b4987856bc860643ac2c9cdbc7d5f3e9ade68377",
+        "version" : "0.8.1"
+      }
+    },
+    {
+      "identity" : "textstory",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ChimeHQ/TextStory",
+      "state" : {
+        "revision" : "8883fa739aa213e70e6cb109bfbf0a0b551e4cb5",
+        "version" : "0.8.0"
+      }
+    }
+  ],
+  "version" : 2
+}
